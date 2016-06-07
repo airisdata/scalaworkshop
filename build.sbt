@@ -33,3 +33,5 @@ lazy val meetup1 = ScalaMeetupsProject("meetup-1")
 lazy val meetup2 = ScalaMeetupsProject("meetup-2")
 
 lazy val meetup3 = ScalaMeetupsProject("meetup-3")
+
+lazy val meetup4 = ScalaMeetupsProject("meetup-4")
